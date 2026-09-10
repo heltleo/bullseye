@@ -1,0 +1,6 @@
+Archive: oldoldstable
+Component: rpi
+Origin: Raspbian
+Label: Raspbian
+Architecture: armhf
+Description: Debian armhf testing distribution for Raspberry Pi
